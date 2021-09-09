@@ -1,0 +1,10 @@
+Expande el uso de dockers.
+Semana uno incluye trabajo de git que bien podria haberse incluido en la introduccion.
+Algunos de los videos como los plugins de Docker se podrian unir, ya que se instalan desde el mismo lugar y algunos ya venian por defecto y no son necesarios.
+La idea de tener al final las actividades viene bien pero faltaria que muestre solo las actuales y no todas, ya que algunas no aplicaron.
+
+Tal ves muy continuado de los temas y seria mejor dejar todo lo que es docker sin ser la instalacion en el taller y dejar en la Introduccion todo lo que es git + instalacion de docker.
+Tambien mucho material y recursos complementarios que no se explica bien su uso.
+
+
+En general muy bien el curso y facil de entender, tal ves un poco inflado de cosas.
