@@ -1,3 +1,5 @@
 Tiene en cuenta varias partes importantes de DevOps, como son Git y Docker.
 Repaso de Git (ya estaba usando github desktop con uso similar al visto, pero se agradece el repaso) e introduccion a Docker que luego se expande en el taller.
 No se entiende bien si el uso de python es simplemente de demostracion por facilidad del mismo o se queria implementar mas su uso.
+
+La introduccion de mejores vistas de lo que esta hecho, puntajes y dar metricas ayuda a llevar mejor el curso. Tal ves las metricas no es tan necesarios para nosotros y mas para los tutores.
